@@ -1,4 +1,4 @@
-##Next.js Material UI boilerplate
+## Next.js Material UI boilerplate
 
 ## How to use
 1. Clone the repository
